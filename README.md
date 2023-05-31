@@ -4,6 +4,7 @@
 
 Description. 
 The Scientific image processing package is used to:
+	
 	Processing:
 		- Histogram matching 
 		- Structural similarity
