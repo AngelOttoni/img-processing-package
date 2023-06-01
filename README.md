@@ -2,7 +2,8 @@
 
 # Scientific image processing package
 
-Description. 
+**Description:**
+ 
 The Scientific image processing package is used to:
 	
 	Processing:
